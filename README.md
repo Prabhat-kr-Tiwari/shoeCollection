@@ -166,10 +166,4 @@ Feel free to modify and extend it.
 
 ---
 
-If you want, I can also:
 
-* Add **screenshots section**
-* Write a **resume-ready project description**
-* Optimize this README for **GitHub stars ⭐**
-
-Just tell me 👍
